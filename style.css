@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+    width: 100%;
+}
+.container{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: lightskyblue;
+}
+.center{
+    margin: auto;
+    width: 30%;
+}
+.hidden{
+    display: none;
+}
+.left-top-bar{
+    float:right;
+}
+input{
+    border-radius: 3px;
+}
